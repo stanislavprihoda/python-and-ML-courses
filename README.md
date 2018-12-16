@@ -1,7 +1,7 @@
 # python-courses
-Backup of my python notebooks and code form various completed courses. Glad to provide a review or a recommendation in case of interest.
+Backup of my python notebooks and code form various completed courses or in progress study work (top one). Glad to provide a review or a recommendation in case of interest.
 
-## completed or in progress courses:
+## Courses:
 ### Practical Deep Learning For Coders
 - Fast.ai (Jeremy Howard)
 - 7 lessons, 20 hours of video
