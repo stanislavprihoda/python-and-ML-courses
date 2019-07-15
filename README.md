@@ -1,9 +1,12 @@
 # python-and-ML-courses
 Backup of my python notebooks and code form various completed courses in the area of machine/deep learning or in progress study work (top one). Glad to provide a review or a recommendation in case of interest.
 
-My consolidated notes to all of the courses (somewhere a bit messy :)) can be found here: https://1drv.ms/f/s!Am3cTpvbtF9kcUAXXQo7czmDihA
-
 ## Courses:
+### Python for Time Series Data Analysis
+- UDEMY
+- 92 lectures, 15 hours of video
+- course overview: https://www.udemy.com/python-for-time-series-data-analysis/
+
 ### Practical Deep Learning For Coders
 - Fast.ai (Jeremy Howard)
 - 7 lessons, 20 hours of video
