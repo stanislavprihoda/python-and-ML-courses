@@ -1,5 +1,5 @@
 # python-and-ML-courses
-Backup of my python notebooks and code form various completed courses in the area of machine/deep learning or in progress study work (top one). Glad to provide a review or a recommendation in case of interest.
+Backup of my python notebooks and code form various completed courses in the area of machine/deep learning.
 
 ## Courses:
 ### Python for Time Series Data Analysis
