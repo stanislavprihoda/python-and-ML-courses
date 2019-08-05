@@ -1,3 +1,5 @@
 Timeseries_Python/.*
 Timeseries_Python/_model*
-/FastAI/dl2/.*
+FastAI/dl2/.*
+FastAI/dl2/notebook2script.py
+FastAI/dl2/run_notebook.py
